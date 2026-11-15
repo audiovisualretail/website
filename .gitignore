@@ -1,0 +1,5 @@
+# Copias de seguridad locales
+*.bak
+
+# macOS
+.DS_Store
